@@ -72,7 +72,7 @@ var r_text = [
 	"Nebula was here",
 	"Dakota was here",
 	"Candy gore is yes",
-	"Everybody to the limit, everybody to the limit, everybody come on fhqwhgads!",
+	"Everybody to the limit, who's that? He's to the limit! Everybody come on fhqwhgads!",
 	"Body horror is yes"
 ];
 var fuckyou = Math.floor(71*Math.random());
