@@ -60,7 +60,7 @@ var r_text = [
 	"Electron is the software equivalent to filling your boots with river water",
 	"You just lost the game",
 	"shababclampingpongclongsos",
-	"come, on, fhqwhgads, I said come on, fhqwhgads",
+	"several syncopations, several syncopations, several syncopations toniiiiiiiight!",
 	"computer over? virus equals very yes!? that's not a good prize!",
 	"NICE KNOWING YOU, SKETCH TURNER!",
 	"if buying isn't owning, piracy isn't stealing",
@@ -70,9 +70,12 @@ var r_text = [
 	"I am the milkman. My milk is delicious.",
 	"EAT ELECTRIC DEATH!",
 	"Nebula was here",
-	"Dakota was here"
+	"Dakota was here",
+	"Candy gore is yes",
+	"Everybody to the limit, everybody to the limit, everybody come on fhqwhgads!",
+	"Body horror is yes"
 ];
-var fuckyou = Math.floor(68*Math.random());
+var fuckyou = Math.floor(71*Math.random());
 
 $("#scrollText").html(r_text[fuckyou]);
 
